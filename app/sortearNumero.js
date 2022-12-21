@@ -1,5 +1,5 @@
-const menorValor = 1 //altere o valore para mudar o range do Math.random()
-const maiorValor = 1000 //altere o valore para mudar o range do Math.random()
+const menorValor = 1 //altere o valor para mudar o range do Math.random()
+const maiorValor = 1000 //altere o valor para mudar o range do Math.random()
 const numeroSecreto = gerarNumeroAleatorio()
 
 function gerarNumeroAleatorio() {
